@@ -43,29 +43,29 @@ This is a draft.
 - create new checkout steps
 - populate steps on progress bar
 
-### Login box
+### 7. Login box
 - common functionality
 
-### Address book
+### 8. Address book
 - common functionality
 
-### Shipping address
+### 9. Shipping address
 - common functionality
 
-### Shipping methods
+### 10. Shipping methods
 - common functionality
 - select shipping methods to display
 
-### Payment methods
+### 11. Payment methods
 - common functionality
 - select payment methods to display
 
-### Side bar
+### 12. Side bar
 - common functionality
 
-### Totals
+### 13. Totals
 - common functionality
 
-### Cart items
+### 14. Cart items
 - common functionality
 

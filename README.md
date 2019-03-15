@@ -15,7 +15,7 @@ This is a draft.
 - Side bar
 - Totals
 - Cart items
-- Chekout Form Builer - as a separate module
+- [Chekout Form Builer](https://github.com/sbodak/magento2-checkout-form-builder) - as a separate module
 
 ### 1. Common functionality
 - display on/off
